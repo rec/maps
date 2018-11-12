@@ -1,0 +1,6 @@
+{
+  "spam": [
+    {"employee": 2},
+    {"employee": 1, "(none)": 3}
+  ]
+}
