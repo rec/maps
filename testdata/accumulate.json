@@ -1,0 +1,11 @@
+{
+    "boring.com": {
+        "no spam": {"employee": 1},
+        "spam": {"employee": 1},
+        "wrong": {"employee": 1}
+    },
+    "evil.com": {"spam": {"employee": 2}},
+    "evil2.com": {"spam": {"(none)": 3, "employee": 1}},
+    "evil3.com": {"spam": {"(none)": 2, "employee": 1}},
+    "evil4.com": {"spam": {"(none)": 5}}
+}

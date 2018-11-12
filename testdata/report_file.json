@@ -1,0 +1,17 @@
+{"domain": "evil.com", "button": "spam", "cookie": "employee"}
+{"domain": "evil.com", "button": "spam", "cookie": "employee"}
+{"domain": "evil2.com", "button": "spam", "cookie": "employee"}
+{"domain": "evil2.com", "button": "spam"}
+{"domain": "evil2.com", "button": "spam"}
+{"domain": "evil2.com", "button": "spam"}
+{"domain": "evil3.com", "button": "spam", "cookie": "employee"}
+{"domain": "evil3.com", "button": "spam"}
+{"domain": "evil3.com", "button": "spam"}
+{"domain": "evil4.com", "button": "spam"}
+{"domain": "evil4.com", "button": "spam"}
+{"domain": "evil4.com", "button": "spam"}
+{"domain": "evil4.com", "button": "spam"}
+{"domain": "evil4.com", "button": "spam"}
+{"domain": "boring.com", "button": "spam", "cookie": "employee"}
+{"domain": "boring.com", "button": "no spam", "cookie": "employee"}
+{"domain": "boring.com", "button": "wrong", "cookie": "employee"}
